@@ -67,5 +67,17 @@
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Module 2 - BigData Fundamentals &amp;amp; Hadoop&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>Sample</title>
+      <link>https://sbouddha.github.io/posts/myteachings/</link>
+      <pubDate>Wed, 28 May 2025 15:05:00 +0200</pubDate>
+      <guid>https://sbouddha.github.io/posts/myteachings/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; To give example of a Vegetable&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; The Gourmet Company&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Hands on Machine Learning with Scikit-Learn, Keras, and TensorFlow by Aurélien Géron&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; f&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
   </channel>
 </rss>
