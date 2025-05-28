@@ -6,14 +6,65 @@
     <description>Recent content on My Blog Post</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 28 May 2025 15:01:55 +0200</lastBuildDate>
     <atom:link href="https://sbouddha.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>https://sbouddha.github.io/posts/my-first-post/</link>
-      <pubDate>Wed, 28 May 2025 15:01:55 +0200</pubDate>
-      <guid>https://sbouddha.github.io/posts/my-first-post/</guid>
-      <description>&lt;p&gt;#TEST Blog&lt;/p&gt;</description>
+      <title></title>
+      <link>https://sbouddha.github.io/posts/data-engineering-overview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://sbouddha.github.io/posts/data-engineering-overview/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;How to become a good and Successful Data Engineer:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Obtain a relevant degree: Pursue a degree in Computer Science, Information Technology, Data Science, or a related field. This provides a solid foundation in core concepts and principles.&lt;/li&gt;
+&lt;li&gt;Learn programming languages and tools: Master programming languages like SQL, Python, and Java. Develop proficiency in writing efficient code for data manipulation and analysis. Gain hands-on experience with popular tools and frameworks such as Apache Hadoop, Apache Spark, and ETL (Extract, Transform, Load) tools.&lt;/li&gt;
+&lt;li&gt;Gain experience with databases: Become proficient in database management systems like Oracle, MySQL, or PostgreSQL. Learn how to design and optimize databases, write complex SQL queries, and handle database administration tasks.&lt;/li&gt;
+&lt;li&gt;Develop data modeling skills: Familiarize yourself with data modeling concepts, including relational data modeling, dimensional modeling, and schema design. Understand how to create efficient data structures for storage and retrieval.&lt;/li&gt;
+&lt;li&gt;Acquire ETL skills: Learn the process of Extract, Transform, Load (ETL) to handle data integration tasks. Familiarize yourself with ETL tools like Apache NiFi, Apache Airflow, or commercial ETL solutions. Understand how to extract data from various sources, transform it to fit the desired format, and load it into the target system.&lt;/li&gt;
+&lt;li&gt;Gain experience with big data technologies: Understand distributed computing frameworks like Apache Hadoop and Apache Spark. Learn how to process and analyze large volumes of data. Familiarize yourself with cloud-based data processing services such as Amazon Web Services (AWS) or Google Cloud Platform (GCP).&lt;/li&gt;
+&lt;li&gt;Develop data pipeline and workflow management skills: Master tools like Apache Kafka, Apache Airflow, or commercial workflow management systems. Learn how to build and manage data pipelines to ensure smooth data flow and processing.&lt;/li&gt;
+&lt;li&gt;Gain knowledge of data warehousing: Understand data warehousing concepts and techniques. Familiarize yourself with data warehousing tools like Snowflake, Amazon Redshift, or Google BigQuery. Learn how to design and optimize data warehouses.&lt;/li&gt;
+&lt;li&gt;Understand data quality and governance: Develop an understanding of data quality assessment, data profiling, and data governance practices. Learn how to ensure data accuracy, consistency, and compliance with regulatory requirements.&lt;/li&gt;
+&lt;li&gt;Gain experience with data integration and APIs: Learn how to integrate data from various sources and work with APIs. Understand different data formats like JSON, XML, or CSV. Gain knowledge of data integration tools like Apache Kafka, MuleSoft, or Informatica.&lt;/li&gt;
+&lt;li&gt;Stay updated with industry trends: Data engineering is a rapidly evolving field. Stay informed about the latest technologies, tools, and best practices by following industry blogs, attending conferences, and participating in online communities. Continuously expand your knowledge and adapt to emerging trends.&lt;/li&gt;
+&lt;li&gt;Build a portfolio of projects: Gain practical experience by working on personal projects or contributing to open-source projects. Showcase your skills in data processing, database management, ETL tasks, and data integration. This allows you to demonstrate your abilities to potential employers.&lt;/li&gt;
+&lt;li&gt;Consider certifications: Obtain certifications related to database management systems, big data technologies, cloud platforms, or specific data engineering tools. Certifications can enhance your credibility and demonstrate your expertise.&lt;/li&gt;
+&lt;li&gt;Gain practical experience: Seek opportunities to work on data engineering projects through internships, freelance work, or by taking on relevant responsibilities in your current job. Practical experience is invaluable for developing your skills and building a strong foundation.&lt;/li&gt;
+&lt;li&gt;Cultivate soft skills: Develop strong collaboration, communication, problem-solving, and analytical thinking skills. Data Engineers often work in cross-functional teams, so effective communication and teamwork are essential.&lt;/li&gt;
+&lt;li&gt;Foster a mindset of continuous learning: Data engineering is a dynamic field, so keep learning.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;To be successful in data engineering requires solid programming skills, statistics knowledge, analytical skills, and an understanding of big data technologies1. According to SkillHub, the set of essential skills for data engineer involves the following:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://sbouddha.github.io/posts/data-engineering-topics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://sbouddha.github.io/posts/data-engineering-topics/</guid>
+      <description>&lt;h2 id=&#34;yt-shashank-course-from-amazon&#34;&gt;YT Shashank course from Amazon&lt;/h2&gt;
+&lt;p&gt;From the course by Shashank from Amazon , below are the main topics/things to take care:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;sql (intermediate+)&lt;/li&gt;
+&lt;li&gt;python (intermediate)&lt;/li&gt;
+&lt;li&gt;Data Engineering Core concepts&lt;/li&gt;
+&lt;li&gt;Cloud (Will be important with time progressing)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Module 1 - SQL&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;MySQL Installation guide Connection &amp;amp; set up&lt;/li&gt;
+&lt;li&gt;DDL, DML, DCL in SQL&lt;/li&gt;
+&lt;li&gt;Data type of SQL&lt;/li&gt;
+&lt;li&gt;Create, Insert, Update, Alter, Delete, Drop, Truncate * Operations&lt;/li&gt;
+&lt;li&gt;Views in SQL&lt;/li&gt;
+&lt;li&gt;Operators in SQL&lt;/li&gt;
+&lt;li&gt;WHERE clause, ORDER BY clause, GROUP BY &amp;amp; Having Clause&lt;/li&gt;
+&lt;li&gt;Aggregations Group Concat &amp;amp; Roll UP&lt;/li&gt;
+&lt;li&gt;CASE-WHEN Statement&lt;/li&gt;
+&lt;li&gt;Joins in SQL - Inner, Left, Right, Full, Self&lt;/li&gt;
+&lt;li&gt;Correlated subqueries IN, NOT IN, ANY, ALL, EXISTS, NOT EXISTS&lt;/li&gt;
+&lt;li&gt;Window Functions&lt;/li&gt;
+&lt;li&gt;Frame Clause in Window Functions&lt;/li&gt;
+&lt;li&gt;Common Table Expressions - Recursive, Iterative&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Module 2 - BigData Fundamentals &amp;amp; Hadoop&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
